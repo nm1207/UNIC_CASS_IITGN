@@ -1,2 +1,0 @@
-# UNIC_CASS_IITGN
-DNN Accelerators for UNIC-CASS
